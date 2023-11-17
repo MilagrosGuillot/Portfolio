@@ -377,7 +377,6 @@ body {
 .topic-btn {
   display: flex;
   width: 80%;
-
   align-items: stretch;
   background: var(--background-primary);
   border-radius: 10px;
