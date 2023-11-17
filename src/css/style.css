@@ -384,7 +384,9 @@ body {
   box-shadow: 0 5px 5px hsla(0, 0%, 0%, 0.05);
   overflow: hidden;
 }
-
+.card{
+  height: 30vh;
+}
 .topic-btn:not(:last-child) {
   margin-bottom: 1rem;
 }
